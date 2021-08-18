@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace WebApplication1.Pages
+namespace RabbitMQPubSubscriber.Pages
 {
     public class PrivacyModel : PageModel
     {
